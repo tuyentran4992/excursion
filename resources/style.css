@@ -1,8 +1,7 @@
 body{
     background-color: black;
     color: white;
-    max-width: 1200px;
-    margin: auto;
+    margin: 0 auto;
 }
 
 #intro-title {
@@ -21,4 +20,46 @@ body{
     text-decoration: none;
     text-decoration: underline;
     font-size: 16px;
+}
+
+.intro-video {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.intro-title-1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 42px;
+}
+
+.intro-text-1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 21px;
+    color: gray
+}
+
+.intro-image-1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.intro-image-2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.intro-text-2 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 42px;
+}
+
+.logo {
+    text-align: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    font-size: 30px;
 }
